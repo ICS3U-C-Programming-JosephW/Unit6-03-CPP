@@ -91,7 +91,7 @@ int main() {
     }
 
     /* Determine the minimum number by assigning
-    it to the minimum value function. */
+    it to the find minimum value function. */
     int minNumber = findMinValue(arrayOfInt);
     // Display the minimum number.
     std::cout << "\nThe min value is: "
